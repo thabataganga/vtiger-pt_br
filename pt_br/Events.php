@@ -12,92 +12,92 @@
 
 $languageStrings = array(
 	// Basic Strings
-	'Events' => 'Events',
-	'SINGLE_Events' => 'Event',
-	'LBL_ADD_RECORD' => 'Add Event',
-	'LBL_RECORDS_LIST' => 'Events List',
-	'LBL_EVENTS' => 'Events',
-	'LBL_TODOS' => 'Task',
-	'LBL_HOLD_FOLLOWUP_ON' => 'Hold Followup on',
-    'LBL_CREATE_FOLLOWUP_EVENT' => 'Create Follow Up Event',
-	
-	// Blocks
-	'LBL_EVENT_INFORMATION' => 'Event Details',
-	'LBL_RECURRENCE_INFORMATION' => 'Recurrence Details',
-    'LBL_RELATED_TO' => 'Related To',
-	
-	//Fields
-	'Start Date & Time'=>'Start Date & Time',
-	'Recurrence' => 'Recurrence',
-	'Send Notification' => 'Send Notification',
-	'Location'=>'Location',
-	'Send Reminder' => 'Send Email Reminder Before',
-	'End Date & Time' => 'End Date & Time',
-	'End Date' => 'End Date & Time',
-    'Activity Type'=>'Activity Type',
-	'Visibility' => 'Visibility',
-	'Recurrence' => 'Repeat',
-    'Related To' => 'Related To',
-    
-	//Visibility picklist values
-	'Private' => 'Private',
-	'Public' => 'Public',
-	
-	//Activity Type picklist values
-	'Call' => 'Call',
-	'Meeting' => 'Meeting',
-	
-	//Status picklist values
-	'Planned' => 'Planned',
-	'Held' => 'Held',
-	'Not Held' => 'Not Held',
-	
-	//Reminder Labels
-	'LBL_DAYS' => 'Days',
-	'LBL_HOURS' => 'Hours',
-	
-	//Repeat Labels
-	'LBL_DAYS_TYPE' => 'Day(s)',
-	'LBL_WEEKS_TYPE' => 'Week(s)',
-	'LBL_MONTHS_TYPE' => 'Month(s)',
-	'LBL_YEAR_TYPE' => 'Year',
-	
-	'LBL_FIRST' => 'First',
-	'LBL_LAST' => 'Last',
-	
-	'LBL_SM_SUN' => 'Sun',
-	'LBL_SM_MON' => 'Mon',
-	'LBL_SM_TUE' => 'Tue',
-	'LBL_SM_WED' => 'Wed',
-	'LBL_SM_THU' => 'Thr',
-	'LBL_SM_FRI' => 'Fri',
-	'LBL_SM_SAT' => 'Sat',
-	
-	'LBL_DAY0' => 'Sunday',
-	'LBL_DAY1' => 'Monday',
-	'LBL_DAY2' => 'Tuesday',
-	'LBL_DAY3' => 'Wednesday',
-	'LBL_DAY4' => 'Thursday',
-	'LBL_DAY5' => 'Friday',
-	'LBL_DAY6' => 'Saturday',
-	
-	'Daily'=>'Day(s)',
-	'Weekly'=>'Week(s)',
-	'Monthly'=>'Month(s)',
-	'Yearly'=>'Year',
-	
-	'LBL_REPEATEVENT' => 'Once in every',
-	'LBL_UNTIL' => 'Until',
-	'LBL_DAY_OF_THE_MONTH' => 'day of the month',
-	'LBL_ON' => 'on',
-	
-	'LBL_RECORDS_LIST' => 'List View',
-	'LBL_CALENDAR_VIEW' => 'Calendar View',
+	'Events' => 'Eventos',
+	'SINGLE_Events' => 'Evento',
+	'LBL_ADD_RECORD' => 'Adicionar evento',
+	'LBL_RECORDS_LIST' => 'Lista de eventos',
+	'LBL_EVENTS' => 'Eventos',
+	'LBL_TODOS' => 'Tarefa',
+	'LBL_HOLD_FOLLOWUP_ON' => 'Manter acompanhamento',
+	'LBL_CREATE_FOLLOWUP_EVENT' => 'Criar evento de acompanhamento',
 
-    'LBL_INVITE_USER_BLOCK' => 'Invite',
-    'LBL_INVITE_USERS' => 'Invite Users',
-    'LBL_INVITE_PEOPLE' => 'Invite People',
-	'INVITATION'=>' Invitation ',
-	'Busy' => 'Busy',
+	// Blocks
+	'LBL_EVENT_INFORMATION' => 'Detalhes do evento',
+	'LBL_RECURRENCE_INFORMATION' => 'Detalhes da recorrência',
+	'LBL_RELATED_TO' => 'Relacionado a',
+
+	//Fields
+	'Start Date & Time' => 'Data e hora de início',
+	'Recurrence' => 'Recorrência',
+	'Send Notification' => 'Enviar notificação',
+	'Location' => 'Localização',
+	'Send Reminder' => 'Enviar lembrete por e-mail antes',
+	'End Date & Time' => 'Data e hora final',
+	'End Date' => 'Data e hora de término',
+	'Activity Type' => 'Tipo de Atividade',
+	'Visibility' => 'Visibilidade',
+	'Recurrence' => 'Repetir',
+	'Related To' => 'Relacionado a',
+
+	//Visibility picklist values
+	'Private' => 'Privado',
+	'Public' => 'Público',
+
+	//Activity Type picklist values
+	'Call' => 'Chamada',
+	'Meeting' => 'Reunião',
+
+	//Status picklist values
+	'Planned' => 'Planejado',
+	'Held' => 'Aprovado',
+	'Not Held' => 'Não Aprovado',
+
+	//Reminder Labels
+	'LBL_DAYS' => 'Dias',
+	'LBL_HOURS' => 'Horas',
+
+	//Repeat Labels
+	'LBL_DAYS_TYPE' => 'Dia(s)',
+	'LBL_WEEKS_TYPE' => 'Semana(s)',
+	'LBL_MONTHS_TYPE' => 'Mês(es)',
+	'LBL_YEAR_TYPE' => 'Ano',
+
+	'LBL_FIRST' => 'Primeiro',
+	'LBL_LAST' => 'Último',
+
+	'LBL_SM_SUN' => 'Dom',
+	'LBL_SM_MON' => 'Seg',
+	'LBL_SM_TUE' => 'Ter',
+	'LBL_SM_WED' => 'Qua',
+	'LBL_SM_THU' => 'Qui',
+	'LBL_SM_FRI' => 'Sex',
+	'LBL_SM_SAT' => 'Sáb',
+
+	'LBL_DAY0' => 'Domingo',
+	'LBL_DAY1' => 'Segunda-feira',
+	'LBL_DAY2' => 'Terça-feira',
+	'LBL_DAY3' => 'Quarta-feira',
+	'LBL_DAY4' => 'Quinta-feira',
+	'LBL_DAY5' => 'Sexta-feira',
+	'LBL_DAY6' => 'Sábado',
+
+	'Daily' => 'Dia(s)',
+	'Weekly' => 'Semana(s)',
+	'Monthly' => 'Mês(es)',
+	'Yearly' => 'Ano',
+
+	'LBL_REPEATEVENT' => 'Uma vez em cada',
+	'LBL_UNTIL' => 'Até',
+	'LBL_DAY_OF_THE_MONTH' => 'dia do mês',
+	'LBL_ON' => 'em',
+
+	'LBL_RECORDS_LIST' => 'Visualização de lista',
+	'LBL_CALENDAR_VIEW' => 'Visualização do Calendário',
+
+	'LBL_INVITE_USER_BLOCK' => 'Convidar',
+	'LBL_INVITE_USERS' => 'Convidar usuários',
+	'LBL_INVITE_PEOPLE' => 'Convidar pessoas',
+	'INVITATION' => ' Convite ',
+	'Busy' => 'Ocupado',
 
 );
