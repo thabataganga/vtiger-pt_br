@@ -8,50 +8,50 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'SalesOrder'    =>  'Sales Orders',
-    //DetailView Actions
-	'SINGLE_SalesOrder' => 'Sales Order',
-	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
-    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
+	'SalesOrder'    =>  'Ordens de venda',
+	//DetailView Actions
+	'SINGLE_SalesOrder' => 'Pedido de venda',
+	'LBL_EXPORT_TO_PDF' => 'Exportar para PDF',
+	'LBL_SEND_MAIL_PDF' => 'Enviar e-mail com PDF',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Sales Order',
-	'LBL_RECORDS_LIST' => 'Sales Order List',
+	'LBL_ADD_RECORD' => 'Adicionar pedido de venda',
+	'LBL_RECORDS_LIST' => 'Listar pedidos de venda',
 
 	// Blocks
-	'LBL_SO_INFORMATION' => 'Sales Order Details',
+	'LBL_SO_INFORMATION' => 'Detalhes do pedido de venda',
 
 	//Field labels
-	'SalesOrder No'=>'Sales Order Number',
-	'Quote Name'=>'Quote Name',
-	'Customer No' => 'Customer No',
-	'Requisition No'=>'Requisition No',
-	'Tracking Number'=>'Tracking Number',
-	'Sales Commission' => 'Sales Commission',
-	'Purchase Order'=>'Purchase Order',
-	'Vendor Terms'=>'Vendor Terms',
-	'Pending'=>'Pending',
-	'Enable Recurring' => 'Enable Recurring',
-	'Frequency' => 'Frequency',
-	'Start Period' => 'Start Period',
-	'End Period' => 'End Period',
-	'Payment Duration' => 'Payment Duration',
-	'Invoice Status' => 'Invoice Status',
+	'SalesOrder No' => 'Número do Pedido de Venda',
+	'Quote Name' => 'Nome da cotação',
+	'Customer No' => 'Nº do cliente',
+	'Requisition No' => 'Nº da Requisição',
+	'Tracking Number' => 'Número de rastreamento',
+	'Sales Commission' => 'Comissão de vendas',
+	'Purchase Order' => 'Pedido de Compra',
+	'Vendor Terms' => 'Termos do fornecedor',
+	'Pending' => 'Pendente',
+	'Enable Recurring' => 'Habilitar Recorrencia',
+	'Frequency' => 'Frequência',
+	'Start Period' => 'Período inicial',
+	'End Period' => 'Período final',
+	'Payment Duration' => 'Duração do pagamento',
+	'Invoice Status' => 'Status da fatura',
 
 	//Added for existing Picklist Entries
 
-	'Sub Total'=>'Sub Total',
-	'AutoCreated'=>'Auto Created',
-	'Sent'=>'Sent',
-	'Credit Invoice'=>'Credit Invoice',
-	'Paid'=>'Paid',
-	
+	'Sub Total' => 'Subtotall',
+	'AutoCreated' => 'Criado Automaticamente',
+	'Sent' => 'Enviado',
+	'Credit Invoice' => 'Fatura de crédito',
+	'Paid' => 'Pago',
+
 	//Translation for product not found
-	'LBL_THIS' => 'This',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
+	'LBL_THIS' => 'Isto',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'é excluído do sistema. Por favor, remova ou substitua este item',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Este item de linha foi excluído do sistema, remova este item de linha',
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Please remove line item that is deleted',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Por favor, remova o item de linha que foi excluído',
 );
