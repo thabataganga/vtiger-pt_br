@@ -9,66 +9,66 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Potentials' => 'Opportunities',
-	'SINGLE_Potentials' => 'Opportunity',
-	'LBL_ADD_RECORD' => 'Add Opportunity',
-	'LBL_RECORDS_LIST' => 'Opportunities List',
+	'Potentials' => 'Oportunidades',
+	'SINGLE_Potentials' => 'Oportunidade',
+	'LBL_ADD_RECORD' => 'Adicionar oportunidade',
+	'LBL_RECORDS_LIST' => 'Lista de oportunidades',
 
 	// Blocks
-	'LBL_OPPORTUNITY_INFORMATION' => 'Opportunity Details',
+	'LBL_OPPORTUNITY_INFORMATION' => 'Detalhes da oportunidade',
 
 	//Field Labels
-	'Potential No' => 'Opportunity Number',
-	'Amount' => 'Amount',
-	'Next Step' => 'Next Step',
-	'Sales Stage' => 'Sales Stage',
-	'Probability' => 'Probability',
-	'Campaign Source' => 'Campaign Source',
-	'Forecast Amount' => 'Weighted Revenue',
-	'Related To' => 'Organization Name',
-	'Contact Name' => 'Contact Name',
-        'Type' => 'Type',
-	
+	'Potential No' => 'Número da Oportunidade',
+	'Amount' => 'Valor',
+	'Next Step' => 'Próximo Passo',
+	'Sales Stage' => 'Fase da Venda',
+	'Probability' => 'Probabilidade',
+	'Campaign Source' => 'Fonte da campanha',
+	'Forecast Amount' => 'Previsão de receita',
+	'Related To' => 'Nome da organização',
+	'Contact Name' => 'Nome de contato',
+	'Type' => 'Tipo',
+
 	//Dashboard widgets
-	'Funnel' => 'Sales Funnel',
-	'Potentials by Stage' => 'Opportunities by Stage',
-	'Total Revenue' => 'Revenue by Salesperson',
-	'Top Potentials' => 'Top Opportunities',
-	'Forecast' => 'Sales Forecast',
+	'Funnel' => 'Funil de vendas',
+	'Potentials by Stage' => 'Oportunidades por Estágio',
+	'Total Revenue' => 'Receita por vendedor',
+	'Top Potentials' => 'Principais oportunidades',
+	'Forecast' => 'Previsão de vendas',
 
 	//Added for Existing Picklist Strings
 
-	'Prospecting'=>'Prospecting',
-	'Qualification'=>'Qualification',
-	'Needs Analysis'=>'Needs Analysis',
-	'Value Proposition'=>'Value Proposition',
-	'Id. Decision Makers'=>'Identify Decision Makers',
-	'Perception Analysis'=>'Perception Analysis',
-	'Proposal/Price Quote'=>'Proposal/Quotation',
-	'Negotiation/Review'=>'Negotiation/Review',
-	'Closed Won'=>'Closed Won',
-	'Closed Lost'=>'Closed Lost',
+	'Prospecting' => 'Prospecção',
+	'Qualification' => 'Qualificação',
+	'Needs Analysis' => 'Análise de Necessidades',
+	'Value Proposition' => 'Proposição de valor',
+	'Id. Decision Makers' => 'Identificar Tomadores de Decisão',
+	'Perception Analysis' => 'Análise de Percepção',
+	'Proposal/Price Quote' => 'Proposta/Cotação',
+	'Negotiation/Review' => 'Negociação/Revisão',
+	'Closed Won' => 'Fechado - Ganho',
+	'Closed Lost' => 'Fechado - Perdido',
 
-	'--None--'=>'--None--',
-	'Existing Business'=>'Existing Business',
-	'New Business'=>'New Business',
-	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Expected to close on',
+	'--None--' => '--Nenhum--',
+	'Existing Business' => 'Negócio Existente',
+	'New Business' => 'Novos Negócios',
+	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Espera-se que feche em',
 
 	//widgets headers
-	'LBL_RELATED_CONTACTS' => 'Related Contacts',
-	'LBL_RELATED_PRODUCTS' => 'Related Products',
-    
-    //Convert Potentials
-    'LBL_CONVERT_POTENTIAL' => 'Convert Opportunity',
-	'LBL_CREATE_PROJECT' => 'Create Project',
-    'LBL_POTENTIALS_FIELD_MAPPING' => 'Opportunities Field Mapping',
-    'LBL_CONVERT_POTENTIALS_ERROR' => 'You have to enable Project to convert the Opportunity',
-    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Opportunities Field Mapping is incomplete(Settings > Module Manager > Opportunities > Opportunities Field Mapping)',
-    
-    //Potentials Custom Field Mapping
-	'LBL_CUSTOM_FIELD_MAPPING'=> 'Opportunity to Project mapping',
+	'LBL_RELATED_CONTACTS' => 'Contatos Relacionados',
+	'LBL_RELATED_PRODUCTS' => 'Produtos Relacionados',
+
+	//Convert Potentials
+	'LBL_CONVERT_POTENTIAL' => 'Converter oportunidade',
+	'LBL_CREATE_PROJECT' => 'Criar projeto',
+	'LBL_POTENTIALS_FIELD_MAPPING' => 'Mapeamento do Campo de Oportunidades',
+	'LBL_CONVERT_POTENTIALS_ERROR' => 'Você precisa habilitar o Projeto para converter a Oportunidade',
+	'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'O Mapeamento de Campo de Oportunidades está incompleto(Configurações > Gerenciador de Módulos > Oportunidades > Mapeamento de Campo de Oportunidades)',
+
+	//Potentials Custom Field Mapping
+	'LBL_CUSTOM_FIELD_MAPPING' => 'Oportunidade de mapeamento de projetos',
 );
 
 $jsLanguageStrings = array(
-	'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'Conversion requires selection of Project',
+	'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'A conversão requer seleção de projeto',
 );
