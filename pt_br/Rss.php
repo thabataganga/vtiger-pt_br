@@ -10,22 +10,20 @@
 
 $languageStrings = Array(
     'Rss'=>'Rss',
-    'LBL_RSS_FEED_SOURCES' => 'Rss Feed Sources',
-    'LBL_ADD_FEED_SOURCE' => 'Add Feed Source',
-    'LBL_FEEDS_LIST_FROM' => 'Feeds List From',
-    'LBL_SET_AS_DEFAULT' => 'Set As Default',
-    'LBL_SENDER' => 'Sender',
-    'LBL_FEED_SOURCE' => 'Feed Source',
-    'LBL_ENTER_FEED_SOURCE' => 'Enter Feed Source',
+    'LBL_RSS_FEED_SOURCES' => 'Fontes de feed RSS',
+    'LBL_ADD_FEED_SOURCE' => 'Adicionar fonte de feed',
+    'LBL_FEEDS_LIST_FROM' => 'Lista de feeds de',
+    'LBL_SET_AS_DEFAULT' => 'Definir como padrão',
+    'LBL_SENDER' => 'Remetente',
+    'LBL_FEED_SOURCE' => 'Fonte do feed',
+    'LBL_ENTER_FEED_SOURCE' => 'Digite a fonte do feed',
     'SINGLE_Rss' => 'Rss Feed',
 );
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss Successfully saved',
-    'JS_INVALID_RSS_URL' => 'Invalid Rss Url',
-    'JS_RSS_MADE_AS_DEFAULT' => 'Rss Made as Default',
-    'JS_NO_RECORDS' => 'No Records',
+	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss salvo com sucesso',
+     'JS_INVALID_RSS_URL' => 'URL RSS inválido',
+     'JS_RSS_MADE_AS_DEFAULT' => 'Rss feito como padrão',
+     'JS_NO_RECORDS' => 'Sem registros',
 
 );
-
-?>
