@@ -55,7 +55,7 @@ $languageStrings = array(
 	'LBL_RELATED_TO' => 'Relacionado com',
 
 	//added to support i18n in ticket mails
-	'Ticket ID' => 'ID do bilhete',
+	'Ticket ID' => 'ID do ticket',
 	'Hi' => 'Olá',
 	'Dear' => 'Caro',
 	'LBL_PORTAL_BODY_MAILINFO' => 'O ticket está',
@@ -84,7 +84,7 @@ $languageStrings = array(
 	'LBL_SUPPORT_ADMIN' => 'Administrador de suporte',
 	'LBL_RESPONDTO_TICKETID' => 'Responder ao ID do ticket',
 	'LBL_RESPONSE_TO_TICKET_NUMBER' => 'Resposta ao número do ticket',
-	'LBL_TICKET_NUMBER' => 'Número do bilhete',
+	'LBL_TICKET_NUMBER' => 'Número do ticket',
 	'LBL_CUSTOMER_PORTAL' => 'no Portal do Cliente - URGENTE',
 	'LBL_LOGIN_DETAILS' => 'A seguir estão os detalhes de login do seu Portal do Cliente:',
 	'LBL_MAIL_COULDNOT_SENT' => 'E-mail não pôde ser enviado',
