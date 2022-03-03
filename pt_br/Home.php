@@ -23,7 +23,7 @@ $languageStrings = array(
 	'UA' => 'Próximas atividades',
 	'PA' => 'Atividades pendentes',
 	'Home' => 'Painel',
-	'LBL_SAVE_ORDER' => 'Salvar pedido',
+	'LBL_SAVE_ORDER' => 'Salvar',
 	'LBL_ADD_NEW_DASHBOARD' => 'Adicionar novo painel',
 	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => 'Máximo de 30 caracteres são permitidos para o nome do painel.',
 );

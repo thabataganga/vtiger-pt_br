@@ -9,19 +9,19 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'PriceBooks' => 'Price Books',
-	'SINGLE_PriceBooks' => 'Price Book',
-	'LBL_ADD_RECORD' => 'Add Price Book',
-	'LBL_RECORDS_LIST' => 'Price Books List',
+	'PriceBooks' => 'Catálogos de Preços',
+	'SINGLE_PriceBooks' => 'Catálogo de Preços',
+	'LBL_ADD_RECORD' => 'Adicionar Catálogo de Preços',
+	'LBL_RECORDS_LIST' => 'Listar Catálogos de Preços',
 
 	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'Price Book Details',
-	'LBL_EDIT_LIST_PRICE' => 'Edit List Price',
+	'LBL_PRICEBOOK_INFORMATION' => 'Detalhes do catálogo de preços',
+	'LBL_EDIT_LIST_PRICE' => 'Editar lista de preços',
 
 	//Field Labels
-	'Price Book Name' => 'Price Book Name',
-	'PriceBook No' => 'Price Book Number',
+	'Price Book Name' => 'Nome do Catálogo de Preços',
+	'PriceBook No' => 'Número do Catálogo de Preços',
 
-	'LBL_UNIT_PRICE' => 'Unit Price',
-	'LBL_ADD_TO' => 'Add to',
+	'LBL_UNIT_PRICE' => 'Preço unitário',
+	'LBL_ADD_TO' => 'Adicionar à',
 );
